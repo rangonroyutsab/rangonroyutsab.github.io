@@ -9,56 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- B.Sc. (Engg.) in Computer Science and Engineering, Mawlana Bhashani Science and Technology University, 2026 (Expected)
+  Work experience
+  ======
+- 2023 - ongoing
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  - Banglar Math
+  - Duties includes: Mentoring high-school students for Mathematical Olympiads.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- 2022 - ongoing
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  - Bangladesh Mathematical Olympiad
+  - Duties included: Problem-setting, evaluation of regional & national level rounds. Mentoring contestants in Math camps.
+
+- 2019 - ongoing
+  - Gonitzoggo
+  - Duties included: Coordination of shrimp-war, adding/modifying/translating archive problems.
+
+# Skills
+
+- C++, Python, Bash
+- $$ \LaTex $$, Word
