@@ -15,23 +15,21 @@ redirect_from:
 
 # Work experience
 
-======
-
 - 2023 - ongoing
 
   - Banglar Math
-  - Duties includes: Mentoring high-school students for Mathematical Olympiads.
+  - Mentoring high-school students for Mathematical Olympiads.
 
 - 2022 - ongoing
 
   - Bangladesh Mathematical Olympiad
-  - Duties included: Problem-setting, evaluation of regional & national level rounds. Mentoring contestants in Math camps.
+  - Problem-setting and evaluation of regional & national level rounds. Mentoring contestants in Math camps.
 
 - 2019 - ongoing
   - Gonitzoggo
-  - Duties included: Coordination of shrimp-war, adding/modifying/translating archive problems.
+  - Coordination of shrimp-war, adding/modifying/translating archive problems.
 
 # Skills
 
 - C++, Python, Bash
-- \\( \LaTex \\), Word
+- LaTex, Word
