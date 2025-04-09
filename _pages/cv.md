@@ -11,25 +11,34 @@ redirect_from:
 
 # Education
 
-- B.Sc. (Engg.) in Computer Science and Engineering, Mawlana Bhashani Science and Technology University, 2026 (Expected)
+- B.Sc. (Engg.) in Computer Science and Engineering, 2026 (Expected)
 
-# Work experience
+  - Mawlana Bhashani Science and Technology University
 
-- 2023 - ongoing
+- HSC, 2020
 
-  - Banglar Math
+  - Rangpur Government College
+
+- SSC, 2018
+  - Rangpur Zilla School
+
+# Work Experience
+
+- [Banglar Math](https://banglarmath.com/) (2023 - ongoing)
+
+  - Mentor
   - Mentoring high-school students for Mathematical Olympiads.
 
-- 2022 - ongoing
+- [Bangladesh Mathematical Olympiad](https://matholympiad.org.bd/) (2022 - ongoing)
 
-  - Bangladesh Mathematical Olympiad
+  - Academic Team Member
   - Problem-setting and evaluation of regional & national level rounds. Mentoring contestants in Math camps.
 
-- 2019 - ongoing
-  - Gonitzoggo
+- [Gonitzoggo](https://gonitzoggo.com/) (2019 - ongoing)
+  - Academic Team Member
   - Coordination of shrimp-war, adding/modifying/translating archive problems.
 
 # Skills
 
 - C++, Python, Bash
-- LaTex, Word
+- LaTex, Markdown, Word

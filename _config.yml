@@ -22,9 +22,9 @@ repository: "rangonroyutsab/rangonroyutsab.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "rangon.png"
+  avatar: "rangon.jpeg"
   name: "Rangon Roy Utsab"
-  pronouns: # example: "she/her"
+  pronouns: # example: "he/his/him"
   bio: ""
   location: "Earth"
   employer: "MBSTU"
@@ -59,7 +59,7 @@ author:
   keybase: # Username
   instagram: "rangon_roy_utsab"
   lastfm: # Username
-  linkedin: # Username
+  linkedin: rangonroyutsab
   mastodon: # URL
   medium: # URL
   pinterest: # Username
