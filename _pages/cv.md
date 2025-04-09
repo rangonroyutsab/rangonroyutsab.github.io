@@ -12,8 +12,11 @@ redirect_from:
 # Education
 
 - B.Sc. (Engg.) in Computer Science and Engineering, Mawlana Bhashani Science and Technology University, 2026 (Expected)
-  Work experience
-  ======
+
+# Work experience
+
+======
+
 - 2023 - ongoing
 
   - Banglar Math
@@ -31,4 +34,4 @@ redirect_from:
 # Skills
 
 - C++, Python, Bash
-- $$ \LaTex $$, Word
+- \\( \LaTex \\), Word
